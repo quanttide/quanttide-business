@@ -1,3 +1,6 @@
 [submodule "data/journal"]
 	path = data/journal
 	url = https://github.com/quanttide/quanttide-journal-of-business-development.git
+[submodule "apps/qtcloud-business"]
+	path = apps/qtcloud-business
+	url = https://github.com/quanttide/qtcloud-business.git

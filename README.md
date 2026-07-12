@@ -16,6 +16,7 @@
 
 | 路径 | 说明 |
 |------|------|
+| `apps/qtcloud-business` | 量潮云商务应用（子模块） |
 | `data/journal` | 商务拓展日志（子模块） |
 | `docs/` | 领域文档 |
 | `examples/default` | 实验性原型 |
