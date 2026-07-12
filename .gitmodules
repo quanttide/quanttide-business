@@ -4,3 +4,6 @@
 [submodule "apps/qtcloud-business"]
 	path = apps/qtcloud-business
 	url = https://github.com/quanttide/qtcloud-business.git
+[submodule "data/context"]
+	path = data/context
+	url = https://github.com/quanttide/quanttide-context-of-business-development.git
