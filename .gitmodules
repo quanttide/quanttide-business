@@ -10,3 +10,6 @@
 [submodule "apps/qtdata"]
 	path = apps/qtdata
 	url = https://github.com/quanttide/qtdata.git
+[submodule "data/profile"]
+	path = data/profile
+	url = https://github.com/quanttide/quanttide-profile-of-business-development.git
