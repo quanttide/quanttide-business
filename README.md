@@ -20,7 +20,7 @@
 | `data/context` | 商务拓展语境（子模块） |
 | `data/journal` | 商务拓展日志（子模块） |
 | `docs/` | 领域文档 |
-| `examples/default` | 实验性原型 |
+| `examples/quanttide-business-lab` | 实验性原型 |
 | `packages/toolkit` | 共享库/工具集 |
 
 ## 许可
