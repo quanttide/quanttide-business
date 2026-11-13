@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- 注册子模块：`examples/quanttide-business-lab`（quanttide-business-lab，商务拓展实验室）：商务云示例原型三页（p07-quotation-pricing、p10-quotation-tutorial、p14-customer-tier）自 `apps/qtcloud-business/examples/` 平移，源侧不留副本，qtcloud-business 指针更新；实验室元仓双登记
+
 - 注册子模块：`docs/bylaw`（商务拓展章程，quanttide-bylaw-of-business-development）：商务章程三篇（quotation、negotiation、payment-engineering）自 quanttide-bylaw-of-business-entity 的 `business/` 平移至 `intro/`，主体章程导航、关键词与目录树同步，主体指针更新
 
 - 注册子模块：`docs/handbook`（商务拓展手册，quanttide-handbook-of-business-development）：商务工作手册五篇（index、clarify、quotation、contract、negotiation）自 quanttide-handbook-of-business-entity 的 `qtdata/business/` 平移至 `intro/`，移除章程对照信息，报价档案链接改指本域 gallery；主体手册导航与引用同步，主体指针更新

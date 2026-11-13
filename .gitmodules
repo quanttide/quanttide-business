@@ -25,3 +25,6 @@
 [submodule "docs/bylaw"]
 	path = docs/bylaw
 	url = https://github.com/quanttide/quanttide-bylaw-of-business-development.git
+[submodule "examples/quanttide-business-lab"]
+	path = examples/quanttide-business-lab
+	url = https://github.com/quanttide/quanttide-business-lab.git
