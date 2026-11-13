@@ -19,6 +19,7 @@
 | `apps/qtcloud-business` | 量潮云商务应用（子模块） |
 | `data/context` | 商务拓展语境（子模块） |
 | `data/journal` | 商务拓展日志（子模块） |
+| `docs/gallery` | 商务拓展案例集（子模块） |
 | `docs/` | 领域文档 |
 | `examples/quanttide-business-lab` | 实验性原型 |
 | `packages/toolkit` | 共享库/标准库 |
