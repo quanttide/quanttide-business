@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- 注册子模块：`docs/bylaw`（商务拓展章程，quanttide-bylaw-of-business-development）：商务章程三篇（quotation、negotiation、payment-engineering）自 quanttide-bylaw-of-business-entity 的 `business/` 平移至 `intro/`，主体章程导航、关键词与目录树同步，主体指针更新
+
 - 注册子模块：`docs/handbook`（商务拓展手册，quanttide-handbook-of-business-development）：商务工作手册五篇（index、clarify、quotation、contract、negotiation）自 quanttide-handbook-of-business-entity 的 `qtdata/business/` 平移至 `intro/`，移除章程对照信息，报价档案链接改指本域 gallery；主体手册导航与引用同步，主体指针更新
 
 - 注册子模块：`docs/essay`（商务拓展札记，quanttide-essay-of-business-development），首篇为工作论文提案《建立对客户的同理心》（`negotitaion/customer-empathy.md`）；`data/context/methodology/customer-perspective.md`《客户视角的关联性重构》重组迁出，源侧不留副本，context 指针同步

@@ -22,3 +22,6 @@
 [submodule "docs/handbook"]
 	path = docs/handbook
 	url = https://github.com/quanttide/quanttide-handbook-of-business-development.git
+[submodule "docs/bylaw"]
+	path = docs/bylaw
+	url = https://github.com/quanttide/quanttide-bylaw-of-business-development.git
