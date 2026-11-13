@@ -19,3 +19,6 @@
 [submodule "docs/essay"]
 	path = docs/essay
 	url = https://github.com/quanttide/quanttide-essay-of-business-development.git
+[submodule "docs/handbook"]
+	path = docs/handbook
+	url = https://github.com/quanttide/quanttide-handbook-of-business-development.git
